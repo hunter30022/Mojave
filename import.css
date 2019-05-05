@@ -1711,3 +1711,9 @@ code.hljs.makefile:before{
 .theme-dark .selectableItem-1MP3MQ:hover {
     background: rgb(56, 56, 58)
 }
+
+
+.theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH {
+    background: var(--main);
+    width: 300px;
+}
