@@ -1753,3 +1753,25 @@ code.hljs.makefile:before{
 .themeDefault-24hCdX.valueChecked-m-4IJZ[style*='rgb(67, 181, 129)'] {
     background-color: rgb(51, 49, 49) !important;
 }
+
+
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after, 
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after,
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i]::after, 
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i]::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAMAAAAMs7fIAAAA/1BMVEUAAAD/AACynqXIlZttbXWGho6Hh492dn54eIDgTE6SkpqGho52dn56eoJzc3t6eoJ2dn53d393d393d394eIB4eIB3d394eIB4eIB4eIB1dX15eYF4eIB5eYF3d395eYF5eYF5eYF4eIB4eIB3d395eYF5eYF4eIB4eIB5eYF4eIB4eIB5eYF4eIB4eIB4eIB5eYF4eIB5eYF4eIB4eIB4eIB4eIB2dn54eIB5eYF5eYF4eIB3d395eYF4eIB3d394eIB4eIB4eIB5eYF4eIB4eIB3d394eIB4eIB5eYF4eIB4eIB5eYF5eYF4eIB3d394eIB4eIB3d394eIB5eYF49uWQAAAAUnRSTlMAAQICAwMDBAQEBQYPERQVFxwtLzJFTE5PUlVZXV1eYGNoa2xyeIuPkKOprbK/w8THy8zP0tfY3+Dh5OXn6Onr6+zw8PHz9fX29vf5+vv8/f3+QScqwwAAALJJREFUeNpVz9USwkAMBdAUd3d3d3eH4lA2//8thO0UynnJzp2bmQ1whnBTrAd1oHDFe0ikbtQBRJuqnVDGcF+NacB8R144S3xu9QAif008K96a0VqfIRnZ53yxTUkV1UmZktxfJ0mJ7/FLXgc3JaYhkrFzQY1XQwCSQdq7Dm6USAH4sE0ZsnV6xxhrGYEL0SeXiQ3i0QsyoSQf8cyCwlLhhxQE+LIW73jJG0BFiHT8IHsDT+gz4wwHPEkAAAAASUVORK5CYII=) !important;
+}
+
+.embed-IeVjo6 a[href*="://betterdocs." i]:before,
+.embed-IeVjo6 a[href*="://discordsource." i]:before {
+    background: rgb(58, 58, 59) url('https://i.imgur.com/11jnuyc.png') bottom right/100px no-repeat;
+    box-shadow:0 0 12px rgb(58, 58, 59), 0 0 12px rgb(58, 58, 59);
+    border-color: rgb(68, 68, 71)
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://discordsource." i] {
+    color: rgb(92, 86, 86) !important;
+}
