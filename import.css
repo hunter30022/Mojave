@@ -1,5 +1,11 @@
 @import url('https://anti-betterdocs.github.io/BlockBetterDocs/code.css');
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://tinyurl.com/ybc8tm5o');
+@import url('https://tinyurl.com/ybc8tm5o');
+@import url('https://tinyurl.com/y9ek2awo');
+@import url('https://tinyurl.com/ycdgtcef');
+@import url('https://tinyurl.com/yapa5uq5'); 
+@import url('https://tinyurl.com/ybuqovun');
+
 :root {
     --main: rgb(29, 29, 37);
     --hover: rgba(29, 29, 37, 0.555);
@@ -1716,4 +1722,34 @@ code.hljs.makefile:before{
 .theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH {
     background: var(--main);
     width: 300px;
+}
+
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background: var(--main)
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
+    background: var(--hover)
+}
+
+.bda-slist .bda-footer button, .bd-pfbtn {
+    background: var(--button);
+    transition: .3s;
+}
+
+.bda-slist .bda-footer button:hover, .bd-pfbtn:hover {
+    background: var(--button-hover)
+}
+
+.bda-slist .bda-footer button[style*='rgb(114, 137, 218)'] {
+    background: var(--button) !important;
+}
+
+.bda-slist .bda-footer button[style*='rgb(114, 137, 218)']:hover {
+    background: var(--button-hover) !important;
+}
+
+.themeDefault-24hCdX.valueChecked-m-4IJZ[style*='rgb(67, 181, 129)'] {
+    background-color: rgb(51, 49, 49) !important;
 }
