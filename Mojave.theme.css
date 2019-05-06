@@ -1,4 +1,5 @@
 /*//META{"name":"Mojave","description":"Dunes from spectra but it works.","author":"preston#3970","version":"1.0"}*//**/
+@import url('https://goodname69.github.io/Mojave/import.css');
 :root {
     --main: rgb(29, 29, 37);
     --hover: rgba(29, 29, 37, 0.555);
