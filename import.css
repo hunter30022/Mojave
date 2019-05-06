@@ -1376,3 +1376,16 @@ button.addButton-pcyyf6:hover, .theme-dark .actionButton-VzECiy:hover {
 .coloredBackground-37Z6Gv {
     background: url(/assets/0858a33….svg) no-repeat 100% 0,linear-gradient(270.22deg,#636266 .09%,#35363b 99.55%);
 }
+
+
+.guildsError-b7zR5H {
+    background: var(--main);
+    color: rgb(136, 131, 131) !important;
+    border-color: rgb(136, 131, 131);
+    transition: .3s;
+}
+
+.guildsError-b7zR5H:hover{
+    background: var(--main);
+    filter: brightness(1.5);
+}
