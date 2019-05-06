@@ -1584,3 +1584,9 @@ code.hljs.makefile:before{
     background-color: rgb(105, 105, 110)
 }
 ::selection{background: rgb(212, 212, 212)}
+.theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {
+    display: none;
+}
+.theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
+    color:rgb(126, 126, 126); 
+}
