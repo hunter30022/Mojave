@@ -1126,3 +1126,28 @@ button.addButton-pcyyf6:hover, .theme-dark .actionButton-VzECiy:hover {
     filter: none;
     transition: 200ms cubic-bezier(.2, .11, 0, 1);
 }
+
+.activityFeed-1C0EmJ {
+    background: var(--transparent) !important;
+}
+
+.theme-dark .layout-1cQCv2 {
+    background: none;
+}
+
+.content-2mFvgT, .theme-dark .wrapper-9ppXpy {
+    background: var(--main);
+    border: none;
+}
+
+.popoutContainer-3WC9HR {
+    background: var(--main)
+}
+
+.theme-dark .multipleIconWrapper-1PjkRO, .theme-dark .section-2VKIPC {
+    background: rgb(40, 40, 43);
+}
+
+.theme-dark .popout-3G62UL {
+    background: var(--main)
+}
