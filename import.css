@@ -1389,3 +1389,198 @@ button.addButton-pcyyf6:hover, .theme-dark .actionButton-VzECiy:hover {
     background: var(--main);
     filter: brightness(1.5);
 }
+
+
+.wrapper-3Q5DdO, .canvas-3XuBXe{
+    background: url('https://i.imgur.com/qWVIuHM.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.authBox-hW6HRx {
+    background: var(--main);
+}
+
+.theme-dark .hljs {
+    color: #839496;
+}
+code.hljs:before {
+    display: block;
+    margin-top: -7px;
+    margin-right: -7px;
+    float: right;
+    padding: 1px 6px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    color: #fff;
+}
+code.hljs.js:before, code.hljs.JS:before, code.hljs.javascript:before {
+    content: 'JS';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.json:before {
+    content: 'JSON';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.Markdown:before, code.hljs.markdown:before, code.hljs.md:before {
+    content: 'Markdown';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.fix:before {
+    content: 'fix';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.diff:before {
+    content: 'diff';
+    background-color: rgb(105, 105, 110);
+    color: #000;
+}
+code.hljs.c:before, code.hljs.C:before {
+    content: 'C';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.cs:before, code.hljs.csharp:before, code.hljs.Csharp:before {
+    content: 'C#';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.cpp:before, code.hljs.CPP:before {
+    content: 'C++';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.css:before {
+    content: 'css';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.tex:before {
+    content: 'tex';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.python:before, code.hljs.py:before {
+    content: 'Python';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.elixir:before {
+    content: 'Elixir';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.toml:before {
+    content: 'toml';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.xml:before {
+    content: 'xml';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.html:before {
+    content: 'html';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.http:before {
+    content: 'http';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.cr:before {
+    content: 'Crystal';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.go:before {
+    content: 'Go';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.elm:before {
+    content: 'elm';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.hs:before {
+    content: 'Haskell';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.java:before, code.hljs.Java:before {
+    content: 'Java';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.lua:before {
+    content: 'lua';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.php:before {
+    content: 'php';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.ruby:before, code.hljs.rb:before {
+    content: 'Ruby';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.rust:before, code.hljs.Rust:before, code.hljs.rs:before {
+    content: 'Rust';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.swift:before {
+    content: 'Swift';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.xl:before {
+    content: 'xl';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.dns:before {
+    content: 'dns';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.asciidoc:before {
+    content: 'asciidoc';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.bash:before {
+    content: 'bash';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.nimrod:before {
+    content: 'nimrod';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.prolog:before {
+    content: 'prolog';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.less:before{
+    content: 'less';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.d:before{
+    content: 'd';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.objc:before{
+    content: 'obj-c';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.clojure:before{
+    content: 'clojure';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.sql:before{
+    content: 'sql';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.ts:before{
+    content: 'ts';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.hbs:before{
+    content: 'hbs';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.ini:before{
+    content: 'ini';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.coffee:before{
+    content: 'coffee';
+    background-color: rgb(105, 105, 110)
+}
+code.hljs.makefile:before{
+    content: 'makefile';
+    background-color: rgb(105, 105, 110)
+}
+::selection{background: rgb(212, 212, 212)}
