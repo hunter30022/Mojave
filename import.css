@@ -1590,3 +1590,12 @@ code.hljs.makefile:before{
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
     color:rgb(126, 126, 126); 
 }
+
+.barFill-23-gu- {
+    background: rgb(141, 141, 145)
+}
+
+.theme-dark .dividerEnabled-2TTlcf {
+    border-bottom-color: transparent;
+}
+
