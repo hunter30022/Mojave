@@ -1155,3 +1155,11 @@ button.addButton-pcyyf6:hover, .theme-dark .actionButton-VzECiy:hover {
 .activity-11LB_k {
     background: rgb(49, 48, 48);
 }
+.activity-1ythUs {
+    background: var(--main)
+}
+
+.tabBarContainer-1s1u-z {
+    padding-left: unset;
+    border-top: 0px;
+}
