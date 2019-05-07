@@ -1788,3 +1788,42 @@ code.hljs.makefile:before{
 .containerCozy-jafyvG .markup-2BOw-j a[href*="://discordsource." i] {
     color: rgb(92, 86, 86) !important;
 }
+
+
+.ace_content {
+    background: var(--main);
+}
+
+.ace_gutter-layer, .contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls  {
+    background: rgb(56, 56, 66)
+}
+
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {
+    background: rgb(119, 115, 115) !important;
+    border-color: rgb(119, 115, 115) !important;
+}
+
+.ace-monokai .ace_marker-layer .ace_active-line {
+    background: rgb(73, 71, 71);
+}
+
+.ace-monokai .ace_marker-layer .ace_selection {
+    background: rgb(56, 55, 55);
+}
+
+.ace_gutter-cell.ace_warning {
+    background: rgba(255, 166, 0, 0.233);
+}
+
+.ace_gutter-cell.ace_error {
+    background: rgba(255, 0, 0, 0.233);
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: rgb(90, 88, 88);
+    transition: .3s
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
+    background: rgb(122, 118, 118);
+}
