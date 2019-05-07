@@ -1827,3 +1827,25 @@ code.hljs.makefile:before{
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
     background: rgb(122, 118, 118);
 }
+
+
+.theme-dark .header-ykumBX {
+    background: rgb(51, 51, 61)
+}
+
+.messagesPopout-24nkyi {
+    background: var(--main)
+}
+
+.messageGroupWrapper-o-Zw7G {
+    background: rgb(51, 51, 61) !important;
+}
+
+.newMessagesBar-mujexs button{
+    color: #fff !important;
+}
+
+.theme-dark .jumpButton-3DTcS_ {
+    background-color: rgb(62, 62, 63) !important;
+    box-shadow: 0 0 12px rgb(101, 101, 102)
+}
