@@ -432,6 +432,15 @@
     border-radius: 0px;
     border: 1px solid rgb(78, 75, 75)
 }
+.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {
+    background: var(--main);
+}
+
+.theme-dark .markup-2BOw-j pre {
+    background: rgb(123, 123, 128);
+    border-color: rgb(78, 75, 75);
+    border-radius: 0px;
+}
 
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {
     display: none;
