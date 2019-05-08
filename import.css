@@ -1898,3 +1898,24 @@ code.hljs.makefile:before{
 .theme-dark .base-34jWEe {
     display: none
 }
+
+.membersWrap-2h-GB4 {
+    width: 55px;
+    min-width: 0px;
+    transition: .3s;
+}
+
+.theme-dark .membersGroup-v9BXpm {
+    color: transparent;
+    transition: .3s;
+}
+
+.membersWrap-2h-GB4:hover {
+    width: 240px;
+    min-width: 0px;
+    transition: .3s;
+}
+
+.members-1998pB:hover .membersGroup-v9BXpm {
+    color: #99aab5;
+}
