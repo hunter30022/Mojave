@@ -1187,10 +1187,10 @@ button.addButton-pcyyf6:hover, .theme-dark .actionButton-VzECiy:hover {
 }
 
 .tabBarContainer-1s1u-z {
-    padding-left: unset;
-    border-top: 0px;
+    padding-left: 20px;
+    border-top: unset;
+    background: var(--main);
 }
-
 
 
 .guild-1EfMGQ .guildIcon-CT-ZDq,
