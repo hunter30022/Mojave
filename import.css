@@ -18,6 +18,10 @@
     background-color: rgba(0, 0, 0, 0);
 }
 
+
+.theme-dark .path-92Hmty {
+    stroke: var(--main)
+}
 .channels-Ie2l6A {
     -ms-flex-negative: 0;
     background-color: rgba(0, 0, 0, 0.8);
@@ -724,6 +728,7 @@
     color: rgb(136, 131, 131) !important;
     background: var(--main);
     transition: .3s;
+    border: 2px solid rgb(136, 131, 131);
 }
 
 .circleIconButton-jET_ig:hover, .circleIconButton-jET_ig.selected-ugP_am {
