@@ -39,7 +39,13 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
     bottom: 0 !important;
     right: 0 !important;
     z-index: 10000000 !important;
-    animation: .1s seizure linear infinite
+    animation: .1s seizure linear infinite;
+    pointer-events: none !important;
+    transform:none !important;
+    -webkit-app-region:drag !important;
+    transform:none !important;
+    max-height:unset !important;
+    max-width:unset !important;
 }
 
 @keyframes seizure {
@@ -50,6 +56,7 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
         background: blue
     }
 }
+
 
 .theme-dark .path-92Hmty {
     stroke: var(--main)
