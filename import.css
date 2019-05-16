@@ -20,8 +20,15 @@
 
 .unread-1xRYoj {
     background: var(--main);
+    border-radius: 0px;
+    border: 1px solid rgb(78, 75, 75);
+    transition: .3s;
 }
 
+.unread-1xRYoj:hover {
+    filter: brightness(1.5);
+    background: var(--main);
+}
 .themeClear-1EjkE4.valueChecked-m-4IJZ {
     border-radius: 0px;
 }
