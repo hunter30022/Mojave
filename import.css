@@ -13,9 +13,29 @@
     --transparent: rgba(0, 0, 0, 0.8);
     --button: rgb(49, 49, 53);
     --button-hover: rgb(66, 66, 71);
+    --font: 'Nunito';
+    --fontsize: .9em;
+	--textcolor: #fff;
+	--online: #43b581;
+	--idle: #faa61a;
+	--dnd: #f04747;
+	--offline: #636b75;
+	--invisible: #747f8d;
+	--streaming: #643da7;
 }
 .container-2lgZY8 {
     background-color: rgba(0, 0, 0, 0);
+}
+
+input#providerName, input#providerUrl, input#authorName, input#authorUrl, textarea#description, input#imageUrl  {
+    color: #fff !important;
+}
+.avatar-1j43gH {
+    padding: 10px;
+}
+.avatarUploaderInner-3UNxY3{
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .unread-1xRYoj {
@@ -387,15 +407,16 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
     background:rgb(119, 115, 115)
 }
 .mention-1f5kbO {
-    background: var(--main);
-    border-radius: 5px;
+    border-radius: 0px;
+    border: 1px solid rgb(78, 75, 75);
     transition: .3s;
 }
 
-.mention-1f5kbO:hover{
-    filter: brightness(1.3);
-    background: var(--main)
+.mention-1f5kbO:hover {
+    background: var(--main);
+    filter: brightness(1.5)
 }
+
 
 .numberBadge-2s8kKX {
 	background: rgb(104, 100, 100) !important;
@@ -1978,4 +1999,76 @@ code.hljs.makefile:before{
 
 .members-1998pB:hover .membersGroup-v9BXpm {
     color: #99aab5;
+}
+
+.ace_cursor {
+    transition:75ms ease all;
+}
+
+
+
+.alt-3btY0e .item-1GzJrl .statusIconText-3b4TkH {
+	font-size: 0;
+}
+
+.alt-3btY0e .helper-2c73HK {
+	display: none;
+}
+
+.alt-3btY0e {
+    width: 215px;
+}
+
+.alt-3btY0e .status-3fQvEa {
+    width: 215px;
+    height: 50px;
+    border-radius: 0px;
+}
+
+.alt-3btY0e .item-1GzJrl {
+    padding: 0px;
+}
+
+
+.theme-dark .separator-2zcjq8 {
+    display: none;
+}
+
+
+
+#app-mount .status-oxiHuE:not(.status-3fQvEa) {
+	height: 100% !important;
+	width: 100% !important;
+	margin: 0;
+	top: 0;
+	left: 0;
+	border-radius: var(--roundness) !important;
+	background: transparent;
+	border: 2px solid;
+	box-sizing: border-box;
+	transition-duration: .5s;
+}
+
+.status-oxiHuE:not(.status-3fQvEa).online-2S838R {
+	border-color: var(--online) !important;
+}
+
+.status-oxiHuE:not(.status-3fQvEa).idle-3DEnRT {
+	border-color: var(--idle) !important;
+}
+
+.status-oxiHuE:not(.status-3fQvEa).dnd-1_xrcq {
+	border-color: var(--dnd) !important;
+}
+
+.status-oxiHuE:not(.status-3fQvEa).streaming-2_dnHe {
+	border-color: var(--streaming) !important;
+}
+
+.status-oxiHuE:not(.status-3fQvEa).offline-3qoTek {
+	border-color: var(--offline) !important;
+}
+
+.status-oxiHuE:not(.status-3fQvEa).invisible-1kp8Z0 {
+	border-color: var(--invisible) !important;
 }
